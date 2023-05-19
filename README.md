@@ -1,3 +1,3 @@
 # Bingo
 
-https://napster653.github.io/Bingo/
+https://napster653.github.io/BingoSQA/
