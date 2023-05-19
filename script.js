@@ -8,7 +8,14 @@ casillas = [
     'Contacto o Tangos',
     'Granada de humo que nos ciega a nosotros más que al enemigo',
     'Alguien se desmaya por no comer o beber',
-    'Chama explota'
+    'Chama explota',
+    'El heli hace una pasadita antes de aterrizar',
+    'El heli se estrella',
+    'Alguien se mete al server cuando no debe',
+    'Alguien le da al verde cuando no debe',
+    'Lupago dice OSHTIA',
+    'Lupago dice Vamos! Vamos! Vamos! (Al menos x3)',
+    'Joselu/Fenicio se pierde'
 ]
 
 window.onload = () => {
