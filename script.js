@@ -40,6 +40,7 @@ window.onload = () => {
         casillaInner.classList.add("mx-auto");
         casillaInner.classList.add("px-3");
         casillaInner.classList.add("py-3");
+        casillaInner.classList.add("text-light");
         casillaInner.style.height = "95%";
         casillaInner.classList.add("border", "border-primary");
         casillaInner.textContent = texto;
@@ -52,7 +53,7 @@ window.onload = () => {
     celdas.forEach((celda) => {
         celda.onclick = () => {
             if (celda.style.background == '') {
-                celda.style.background = 'deepskyblue';
+                celda.style.background = 'DarkSlateGray';
                 checkBingo();
             }
             else {
