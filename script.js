@@ -16,6 +16,7 @@ casillas = [
     'Alguien se mete al server cuando no debe',
     'Alguien le da al verde cuando no debe',
     'Lupago dice OSHTIA',
+    'Alguien se tira de un vehiculo en marcha',
     'Lupago dice Vamos! Vamos! Vamos! (Al menos x3)',
     'Alguien se pierde',
     'Macías pregunta algo googleable',
